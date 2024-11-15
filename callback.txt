@@ -1,0 +1,3 @@
+Public Sub addinLaTeX(control As Office.IRibbonControl)
+
+End Sub
